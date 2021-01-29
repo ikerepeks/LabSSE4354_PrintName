@@ -1,4 +1,4 @@
-Enterprise Application JDBC Practical Exercise
+## Enterprise Application JDBC Practical Exercise
 
 **Functionalities**
 
